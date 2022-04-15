@@ -1,6 +1,15 @@
-# practicum
-practicum
+## Practicum Task List:
 
-Below is Fiona change
+### Core:
 
-seanss
+- [x] Data Pull
+- [ ] Data Preprocess
+- [ ] C5 Factor Build
+- [ ] Model Replicate
+- [ ] Ranking Output
+
+### Miscellaneous
+
+- [ ] Add Log Fuction
+- [ ] Multithread
+- [ ] API Request Optimize
